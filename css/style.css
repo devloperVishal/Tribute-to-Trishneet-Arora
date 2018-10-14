@@ -43,6 +43,18 @@ img{
 	text-align: left;
 }
 
+#section > P{
+	text-align: justify;
+}
+
+#section > ul{
+	display: block;
+	text-align: left;
+	width: 100%;
+	max-width: 640px;
+	margin: auto;
+}
+
 footer{
 	margin: 0px;
 	
